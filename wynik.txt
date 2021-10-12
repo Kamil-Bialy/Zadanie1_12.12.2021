@@ -1,0 +1,7 @@
+-9 8 II cwiartka
+2 -4 IV cwiartka
+3 5 I cwiartka
+-2 -1 III cwiartka
+4 -1 IV cwiartka
+-3 3 II cwiartka
+4 1 I cwiartka
